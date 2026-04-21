@@ -83,6 +83,7 @@
 - **[Audacity](https://www.audacityteam.org/)** - Open-source audio editing software.
 - **[Ardour](https://ardour.org/)** - A powerful open-source digital audio workstation.
 - **[Castopod](https://castopod.org/)** - Open-source podcast hosting software.
+- **[Podcast Thumbnail Extractor](https://github.com/REMvisual/podcast-thumbnail-extractor)** - AI-powered thumbnail picker that runs locally; ranks candidate frames from any video via face detection + CNN quality scoring.
 - **[Podlove](https://podlove.org/)** - Tools for podcast publishing and analytics.
 - **[RSSHub](https://docs.rsshub.app/en/)** - Open-source tools for creating RSS feeds for podcasts.
 
