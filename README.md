@@ -53,6 +53,7 @@
 - **[Buffer](https://buffer.com/)** - Schedule social media posts to promote your podcast.
 - **[Aweber](https://www.aweber.com/)** - An email marketing platform for engaging your audience.
 - **[Linktree](https://linktr.ee/)** - Share all your podcast links in one place.
+- **[CreatorSkills](https://creatorskills.co)** - Marketplace of 30+ downloadable AI skills for content creators covering podcast scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Analytics and Tracking
 
