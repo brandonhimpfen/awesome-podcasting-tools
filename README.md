@@ -61,6 +61,7 @@
 - **[Podtrac](https://analytics.podtrac.com/)** - A free podcast analytics tool.
 - **[Apple Podcasts Connect](https://podcastsconnect.apple.com/)** - Manage and analyze your podcast's performance on Apple Podcasts.
 - **[Spotify for Podcasters](https://podcasters.spotify.com/)** - Insights and analytics for podcasts on Spotify.
+- **[Media & Entertainment Research Agent](https://superhighway.walls.sh/guides/media-research-agent)** - Build a Python agent that researches media and entertainment audience data using live web data — including podcast trends, streaming viewership, and content performance — into structured JSON briefings.
 
 ## Podcast Monetization Platforms
 
