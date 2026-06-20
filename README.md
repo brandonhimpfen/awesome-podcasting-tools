@@ -45,6 +45,7 @@
 - **[Libsyn](https://libsyn.com/)** - One of the oldest and most popular podcast hosting platforms.
 - **[Podbean](https://www.podbean.com/)** - Hosting and monetization tools for podcasters.
 - **[Transistor](https://transistor.fm/)** - A platform for hosting and distributing podcasts.
+- **[Pody](https://pody.io/)** - Israeli podcast & content marketplace with archive-first storage to archive.org (so RSS feeds keep working even if the host disappears), integrated AI reels editor, and native Hebrew/English/Arabic/Russian support.
 
 ## Promotion and Marketing Tools
 
