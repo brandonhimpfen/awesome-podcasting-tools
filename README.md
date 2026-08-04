@@ -29,6 +29,7 @@
 - **[What is Podcasting?](https://en.wikipedia.org/wiki/Podcast)** - An overview of podcasting and its history.
 - **[The Podcast Host](https://www.thepodcasthost.com/)** - Tips, tools, and tutorials for starting a podcast.
 - **[Podnews](https://podnews.net/)** - Daily news and updates from the podcasting world.
+- **[The Podcast App Tools](https://thepodcastapp.dev/tools)** - Free browser-based utilities for podcasters, including a cover art checker, OPML generator and viewer, and RSS feed validator.
 
 ## Recording and Editing Tools
 
