@@ -37,6 +37,7 @@
 - **[GarageBand](https://www.apple.com/mac/garageband/)** - A beginner-friendly audio editor for Mac users.
 - **[Reaper](https://www.reaper.fm/)** - A versatile digital audio workstation for recording and editing.
 - **[Hindenburg Journalist](https://hindenburg.com/)** - A podcasting-specific audio editing tool.
+- **[Audio Audit](https://audioaudit.io/)** - Automated quality checks for podcast episodes, with one-pass fixes for loudness, noise, and metadata issues.
 
 ## Podcast Hosting Platforms
 
