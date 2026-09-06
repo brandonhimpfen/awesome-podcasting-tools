@@ -33,6 +33,7 @@
 ## Recording and Editing Tools
 
 - **[Audacity](https://www.audacityteam.org/)** - Free, open-source audio editing software.
+- **[Remove Background Noise](https://removebackgroundnoise.app/)** - AI tool that removes background noise from audio and video recordings (wind, hum, echo, traffic).
 - **[Adobe Audition](https://www.adobe.com/products/audition.html)** - Professional audio editing software with advanced features.
 - **[GarageBand](https://www.apple.com/mac/garageband/)** - A beginner-friendly audio editor for Mac users.
 - **[Reaper](https://www.reaper.fm/)** - A versatile digital audio workstation for recording and editing.
