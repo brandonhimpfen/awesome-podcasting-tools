@@ -39,6 +39,8 @@
 - **[Reaper](https://www.reaper.fm/)** - A versatile digital audio workstation for recording and editing.
 - **[Hindenburg Journalist](https://hindenburg.com/)** - A podcasting-specific audio editing tool.
 
+- **[CitePod](https://citepod.com/)** - AI tool that turns study notes into a podcast-style study episode with transcript, topic coverage and recall questions.
+
 ## Podcast Hosting Platforms
 
 - **[Buzzsprout](https://www.buzzsprout.com/)** - An easy-to-use podcast hosting platform with analytics.
