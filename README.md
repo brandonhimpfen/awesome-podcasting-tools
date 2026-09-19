@@ -51,6 +51,7 @@
 
 - **[Canva](https://www.canva.com/)** - Create podcast cover art and promotional graphics.
 - **[Headliner](https://www.headliner.app/)** - Create audiograms and shareable video clips from your episodes.
+- **[shortshort](https://www.shortshort.io/)** - Turn an episode into vertical shorts with word-timed captions and 9:16 framing.
 - **[Buffer](https://buffer.com/)** - Schedule social media posts to promote your podcast.
 - **[Aweber](https://www.aweber.com/)** - An email marketing platform for engaging your audience.
 - **[Linktree](https://linktr.ee/)** - Share all your podcast links in one place.
