@@ -51,6 +51,7 @@
 
 - **[Canva](https://www.canva.com/)** - Create podcast cover art and promotional graphics.
 - **[Headliner](https://www.headliner.app/)** - Create audiograms and shareable video clips from your episodes.
+- **[Clips Kitty](https://github.com/ColinGPT9/clips-studio)** - Turn video podcast episodes into captioned vertical clips for Shorts, Reels and TikTok; free, open source and runs on your own PC.
 - **[Buffer](https://buffer.com/)** - Schedule social media posts to promote your podcast.
 - **[Aweber](https://www.aweber.com/)** - An email marketing platform for engaging your audience.
 - **[Linktree](https://linktr.ee/)** - Share all your podcast links in one place.
